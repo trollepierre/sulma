@@ -11,7 +11,7 @@ None
 
 ## Motivation
 
-People are more interested in your content iwhen the coontent is well arranged on a website.
+People are more interested in your content when the coontent is well arranged on a website.
 
 ## Installation
 
