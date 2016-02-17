@@ -7,10 +7,7 @@ This project is a Template to send my wishes to my friends. It used basic Bootst
 
 ## Code Example
 
-Three customized pictures well arranged
-<div class="col-sm-3"> <img src="img/bigar.png" ></img></div>
-<div class="col-sm-6"> <img src="img/bigar.png" ></img></div>
-<div class="col-sm-3"> <img src="img/bigar.png" ></img></div>
+None
 
 ## Motivation
 
